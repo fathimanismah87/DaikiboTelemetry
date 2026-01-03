@@ -1,0 +1,8 @@
+[
+  {
+    "deviceId": "DEF456",
+    "timestamp": "2023-01-01T10:00:00Z",
+    "temperature": 50,
+    "pressure": 100.8
+  }
+]

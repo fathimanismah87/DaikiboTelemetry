@@ -1,0 +1,8 @@
+[
+  {
+    "deviceId": "ABC123",
+    "timestamp": 1672531200000,
+    "temperature": 45,
+    "pressure": 101.3
+  }
+]
